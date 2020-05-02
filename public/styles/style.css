@@ -1,0 +1,11 @@
+.navbar {
+	justify-content: center;
+}
+
+.container h1 {
+	font-weight: 800;
+}
+
+.whiteicon {
+	filter: invert(1%) sepia(1%) saturate(1%) hue-rotate(1deg) brightness(1000%) contrast(80%);
+}
